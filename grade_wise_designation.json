@@ -1,0 +1,424 @@
+{
+    "data": [
+      {
+        "id": "1",
+        "designation": "Accountant",
+        "grade": "12",
+        "basic_salary": "0"
+      },
+      {
+        "id": "2",
+        "designation": "Accountants Officer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "3",
+        "designation": "Administrative Officer",
+        "grade": "10",
+        "basic_salary": "0"
+      },
+      {
+        "id": "4",
+        "designation": "Artist/calligrapher",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "5",
+        "designation": "Assistant Director (Admin)",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "6",
+        "designation": "Assistant Director (Finance)",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "7",
+        "designation": "Assistant Documentation Officer",
+        "grade": "10",
+        "basic_salary": "0"
+      },
+      {
+        "id": "8",
+        "designation": "Assistant Librarian",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "9",
+        "designation": "Assistant Maintenance Engineer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "10",
+        "designation": "Assistant Programmer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "11",
+        "designation": "Assistant Publication Officer",
+        "grade": "10",
+        "basic_salary": "0"
+      },
+      {
+        "id": "12",
+        "designation": "Assistant Statistical officer",
+        "grade": "10",
+        "basic_salary": "0"
+      },
+      {
+        "id": "13",
+        "designation": "Asssistant Accountant",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "14",
+        "designation": "Lecturer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "15",
+        "designation": "Assistant Professor",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "16",
+        "designation": "Associate Professor",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "17",
+        "designation": "Professor",
+        "grade": "3",
+        "basic_salary": "0"
+      },
+      {
+        "id": "18",
+        "designation": "Book Sorter",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "19",
+        "designation": "Cash Sarker",
+        "grade": "18",
+        "basic_salary": "0"
+      },
+      {
+        "id": "20",
+        "designation": "Cataloguer",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "21",
+        "designation": "Chief, DLP",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "22",
+        "designation": "Chief, Statistics",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "23",
+        "designation": "Cleaner",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "24",
+        "designation": "Compiler",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "25",
+        "designation": "Computer Operator",
+        "grade": "13",
+        "basic_salary": "0"
+      },
+      {
+        "id": "26",
+        "designation": "Data Entry Operator",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "27",
+        "designation": "Deputy Director (Admin)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "28",
+        "designation": "Deputy Director (Finance)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "29",
+        "designation": "Despatch rider",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "30",
+        "designation": "Director",
+        "grade": "4",
+        "basic_salary": "0"
+      },
+      {
+        "id": "31",
+        "designation": "Director General",
+        "grade": "3",
+        "basic_salary": "0"
+      },
+      {
+        "id": "32",
+        "designation": "Documentation Assistant",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "33",
+        "designation": "Documentation Officer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "34",
+        "designation": "Driver",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "35",
+        "designation": "Electrician",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "36",
+        "designation": "Head Assistant",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "37",
+        "designation": "Lab Assistant",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "38",
+        "designation": "Libraray Assistant",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "39",
+        "designation": "Librarian",
+        "grade": "3",
+        "basic_salary": "0"
+      },
+      {
+        "id": "40",
+        "designation": "Library Helper",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "41",
+        "designation": "Liftman",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "42",
+        "designation": "Mali",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "43",
+        "designation": "Messanger",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "44",
+        "designation": "Office assistant cum computer typist",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "45",
+        "designation": "Office Assistant",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "46",
+        "designation": "Photocopy Operator",
+        "grade": "18",
+        "basic_salary": "0"
+      },
+      {
+        "id": "47",
+        "designation": "Programmer",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "48",
+        "designation": "Proof reader",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "49",
+        "designation": "Publication Assistant",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "50",
+        "designation": "Publication Officer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "51",
+        "designation": "Research Officer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "52",
+        "designation": "Security guard",
+        "grade": "20",
+        "basic_salary": "0"
+      },
+      {
+        "id": "53",
+        "designation": "Senior Programmer",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "54",
+        "designation": "Senior system analyst",
+        "grade": "4",
+        "basic_salary": "0"
+      },
+      {
+        "id": "55",
+        "designation": "Specialist (Statistics)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "56",
+        "designation": "Specialist (Documentation)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "57",
+        "designation": "Specialist (Library)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "58",
+        "designation": "Specialist (Publication)",
+        "grade": "6",
+        "basic_salary": "0"
+      },
+      {
+        "id": "59",
+        "designation": "Statistical Investigator",
+        "grade": "12",
+        "basic_salary": "0"
+      },
+      {
+        "id": "60",
+        "designation": "Statistical officer",
+        "grade": "9",
+        "basic_salary": "0"
+      },
+      {
+        "id": "61",
+        "designation": "Stenographer cum computer operator",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "62",
+        "designation": "Store keeper",
+        "grade": "16",
+        "basic_salary": "0"
+      },
+      {
+        "id": "63",
+        "designation": "Store Officer",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "64",
+        "designation": "Steno Typist Cum Computer Operator",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "65",
+        "designation": "System Analyst",
+        "grade": "5",
+        "basic_salary": "0"
+      },
+      {
+        "id": "66",
+        "designation": "System manager",
+        "grade": "3",
+        "basic_salary": "0"
+      },
+      {
+        "id": "67",
+        "designation": "Technician",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "68",
+        "designation": "Upper Division Assistant (UDA)",
+        "grade": "0",
+        "basic_salary": "0"
+      },
+      {
+        "id": "69",
+        "designation": "UDA cum Cashier",
+        "grade": "14",
+        "basic_salary": "0"
+      },
+      {
+        "id": "70",
+        "designation": "UDA cum typist",
+        "grade": "0",
+        "basic_salary": "0"
+      }
+    ]
+  }
